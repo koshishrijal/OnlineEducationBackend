@@ -1,0 +1,52 @@
+{
+
+	"questions":[{
+	"id":0,
+    "name":"what is the value of acceleration due to gravity of earth",
+	"answers":[{
+	"value":3.5,
+	"flag":0},
+	{
+	"value":10,
+	"flag":0},
+
+	
+	{
+	"value":12,
+	"flag":0
+
+	},
+	{
+    "value":9.8,
+	"flag":1
+
+	}]		
+
+	},{
+		"id":0,
+    "name":"what is the molecular formula of common salt",
+	"answers":[{
+	"value":"KCl",
+	"flag":0},
+	{
+	"value":"PCl",
+	"flag":0},
+
+	
+	{
+	"value":"FCl",
+	"flag":0
+
+	},
+	{
+    "value":"NaCl",
+	"flag":1
+
+	}]	
+
+
+
+	}]
+
+	
+}
